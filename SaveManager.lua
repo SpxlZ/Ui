@@ -1,7 +1,7 @@
 local httpService = game:GetService("HttpService")
 
 local SaveManager = {} do
-	SaveManager.Folder = "VortexLinx"
+	SaveManager.Folder = "SpxlZ"
 	SaveManager.Ignore = {}
 	SaveManager.Parser = {
 		Toggle = {
